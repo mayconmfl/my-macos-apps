@@ -1,4 +1,4 @@
-# my-macos-apps
+# My macOS Apps
 
 ## Utilities
 * [Alfred 3](http://www.alfredapp.com/)
