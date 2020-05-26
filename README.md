@@ -56,6 +56,11 @@
 	For me, the best screenshot app
 	```
 
+* [Mac Fan Control](https://crystalidea.com/macs-fan-control/download)
+	```
+	Cool a little there
+	```
+
 ---
 ## Browsers
 * [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
