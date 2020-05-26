@@ -55,3 +55,17 @@
 	```
 	For me, the best screenshot app
 	```
+
+---
+## Browsers
+* [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+	```
+	Pay Attention, this will end your memory ram
+	```
+	
+* [Mozilla Firefox](https://www.mozilla.org/pt-BR/firefox/download/thanks/)
+	```
+	If Chrome down...
+	```
+
+
