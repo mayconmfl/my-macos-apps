@@ -62,6 +62,7 @@
 	```
 
 ---
+
 ## Browsers
 * [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
 	```
@@ -72,5 +73,65 @@
 	```
 	If Chrome down...
 	```
+---
 
+## Productivity
+* [Todoist](https://apps.apple.com/br/app/todoist-to-do-list-tasks/id585829637?l=en&mt=12)
+	```
+	Make lists inside lists... An never end loop
+	```
+	
+* [Trello](https://apps.apple.com/br/app/trello/id1278508951?l=en&mt=12)
+	```
+	A good and free way to manage your projects using KanBan
+	```
+	
+* [Notion](https://www.notion.so/desktop)
+	``` 
+	The best app which was created in the last years. You can create a personal wiki, just
+	Thx my bro Dias
+	```	
+
+* [Pocket](https://apps.apple.com/br/app/pocket/id568494494?l=en&mt=12)
+	``` 
+	Organize and save your read links
+	```
+
+---
+
+## Talk
+* [Telegram](https://macos.telegram.org/)
+	```
+	The best chat client ever!
+	```
+	
+* [WhatsApp](https://apps.apple.com/br/app/whatsapp-desktop/id1147396723?l=en)
+	```
+	A necessary evil!! Please don't call me to another group...
+	```
+
+* [Twitter](https://apps.apple.com/br/app/twitter/id1482454543?l=en&mt=12)
+	```
+	Just for professional stuffs...
+	```
+
+---
+
+## Multimedia
+
+
+* [Spotify](https://www.spotify.com/br/download/other/)
+	```
+	Spotify > Apple Music sorry
+	```
+
+
+* [VLC](https://www.videolan.org/vlc/download-macosx.pt-BR.html)
+	```
+	In case need to fix the torrent legend.. ops!
+	```
+
+---
+
+## Monitoring
 
