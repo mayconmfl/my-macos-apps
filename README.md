@@ -46,6 +46,11 @@
 	Uncompress your files
 	```
 
+* [izip unarchiver rar 7z zip decompressor](https://apps.apple.com/br/app/izip-unarchiver-rar-7z-zip-decompressor/id717545828?l=en&mt=12)
+	```
+	Uncompress your files
+	```
+
 * [Memory Clean](https://fiplab.com/apps/memory-clean-for-mac)
 	```
 	A simple and free way to go along your computer memory
