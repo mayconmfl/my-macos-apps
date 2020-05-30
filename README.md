@@ -170,3 +170,16 @@
 
 ## Monitoring
 
+
+
+---
+
+## Programming
+
+* [Intellij](https://www.jetbrains.com/pt-br/idea/download/#section=mac)
+	```
+	Please, don't talk to me about eclipse here!!!
+	```
+
+
+
