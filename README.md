@@ -130,6 +130,12 @@
 	Just for professional stuffs...
 	```
 
+* [Slack](https://slack.com/intl/pt-br/downloads/windows)
+	```
+	Does what mIRC did :P	
+	```
+
+
 ---
 
 ## Multimedia
