@@ -36,7 +36,7 @@
 	Access your Windows Computer for catch up on old times
 	```
 
-* [Speedtest](https://apps.apple.com/br/app/speedtest-teste-de-velocide/id300704847)
+* [Speedtest](https://apps.apple.com/br/app/speedtest-by-ookla/id1153157709?l=en&mt=12)
 	```
 	Test your internet velocity
 	```
