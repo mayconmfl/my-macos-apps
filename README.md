@@ -61,6 +61,11 @@
 	Cool a little there
 	```
 
+* [Moom](https://apps.apple.com/br/app/moom/id419330170?l=en&mt=12)
+	```
+	Save exactly the positions of the windows
+	```
+
 ---
 
 ## Browsers
