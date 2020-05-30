@@ -143,5 +143,25 @@
 
 ---
 
+
+## Text
+
+* [Sublime Text](https://www.sublimetext.com/download)
+	```
+	Simple, complete and very fast!!!
+	```
+
+* [Visual Studio Code](https://code.visualstudio.com/download)
+	```
+	A good tool... but so slowly
+	```
+	
+* [Atom](https://atom.io/)
+	```
+	I dont know why...
+	```
+
+---
+
 ## Monitoring
 
