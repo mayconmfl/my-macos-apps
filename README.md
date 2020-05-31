@@ -71,6 +71,10 @@
 	Save exactly the positions of the windows
 	```
 
+* [Apple TV Aerial Views Screen Saver](https://github.com/JohnCoates/Aerial)
+	```
+	If you want beautiful screensavers...
+	```
 ---
 
 ## Browsers
@@ -184,7 +188,7 @@
 	
 * [Typora](https://typora.io/)
 	```
-	If you need concetrate to edit you markedown...
+	If you need concetrate to edit you markdown...
 	```	
 
 ---
