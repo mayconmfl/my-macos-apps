@@ -112,6 +112,16 @@
 	The world not survive without them...
 	```
 
+* [Xmind](https://www.xmind.net/)
+	``` 
+	A good tool to make mental maps
+	```
+	
+* [Miro](https://miro.com/apps/)
+	``` 
+	Online collaborative whiteboard platform, but even to smile pays
+	```
+
 ---
 
 ## Talk
@@ -171,6 +181,11 @@
 	```
 	I dont know why...
 	```
+	
+* [Typora](https://typora.io/)
+	```
+	If you need concetrate to edit you markedown...
+	```	
 
 ---
 
@@ -187,5 +202,43 @@
 	Please, don't talk to me about eclipse here!!!
 	```
 
+* [Datagrip](https://www.jetbrains.com/pt-br/datagrip/download/#section=mac)
+	```
+	IDE for access any database
+	```
 
+* [Mysql Workbench](https://www.mysql.com/products/workbench/)
+	```
+	Specific Mysql database manager, it's ok
+	```
+
+* [Pycharm](https://www.jetbrains.com/pt-br/pycharm/)
+	```
+	In case to play with Python
+	```
+
+* [iterm2](https://www.iterm2.com/)
+	```
+	The best terminal, just
+	```
+
+* [Docker](https://www.docker.com/products/docker-desktop)
+	```
+	Container solution
+	```
+
+* [Postman](https://www.postman.com/downloads/)
+	```
+	Client to do http requests
+	```
+	
+* [Jdgui](http://java-decompiler.github.io/)
+	```
+	Java decompiler, it's enough
+	```	
+
+* [Homebrew](https://brew.sh/index_pt-br)
+	```
+	Package manager to macOS
+	```
 
