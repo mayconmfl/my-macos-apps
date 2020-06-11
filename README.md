@@ -195,6 +195,11 @@
 
 ## Monitoring
 
+* [iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/)
+	```
+	If you want check temp, network traffic, cpu usage, Rpm fan etc...
+	```	
+
 
 
 ---
