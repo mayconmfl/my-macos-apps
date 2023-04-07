@@ -83,6 +83,16 @@
 	Do keyboard automations
 	```
 
+* [1Password](http://1password.com/)	
+	```
+	Prevent stay crazy keeping in your brain
+	```
+
+* [AirBuddy](https://v2.airbuddy.app)
+	```
+	Make bt things easy
+	```
+
 ---
 
 ## Browsers
