@@ -1,7 +1,7 @@
 # My macOS Apps
 
 ## Utilities
-* [Alfred 3](http://www.alfredapp.com/)
+* [Alfred](http://www.alfredapp.com/)
 	```
 	Best Spotlight Alternative
 	```
@@ -11,9 +11,9 @@
 	A good windows management
 	```
 	
-* [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner)
+* [App Cleaner](https://freemacsoft.net/appcleaner/)
 	```
-	A good way for full unistall an App
+	A good free way for unistall an App
 	```
 
 * [CopyClip](https://apps.apple.com/br/app/copyclip-clipboard-history/id595191960?mt=12)
@@ -36,34 +36,19 @@
 	Access your Windows Computer for catch up on old times
 	```
 
-* [Speedtest](https://apps.apple.com/br/app/speedtest-by-ookla/id1153157709?l=en&mt=12)
-	```
-	Test your internet velocity
-	```
-
 * [The Unarchiver](https://apps.apple.com/br/app/the-unarchiver/id425424353?mt=12)
 	```
 	Uncompress your files
 	```
 
-* [izip unarchiver rar 7z zip decompressor](https://apps.apple.com/br/app/izip-unarchiver-rar-7z-zip-decompressor/id717545828?l=en&mt=12)
+* [Unistallpkg](https://www.corecode.io/uninstallpkg/)
 	```
-	Uncompress your files
-	```
-
-* [Memory Clean](https://fiplab.com/apps/memory-clean-for-mac)
-	```
-	A simple and free way to go along your computer memory
+	Remove macOS pkg's (why apple?!)
 	```
 
-* [Monosnap Screenshot Editor](https://apps.apple.com/us/app/monosnap-screenshot-editor/id540348655?mt=12)
+* [Shottr](https://shottr.cc)
 	```
-	For me, the best screenshot app
-	```
-
-* [Mac Fan Control](https://crystalidea.com/macs-fan-control/download)
-	```
-	Cool a little there
+	For me, the best free screenshot app
 	```
 
 * [Moom](https://apps.apple.com/br/app/moom/id419330170?l=en&mt=12)
@@ -75,6 +60,29 @@
 	```
 	If you want beautiful screensavers...
 	```
+
+* [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+	```
+	Control a bunch of stuff from your external monitor (e.g. DDC)
+
+	```
+
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+	```
+	Control a bunch of stuff from your external monitor 2
+
+	```
+
+* [Amphetamine](https://apps.apple.com/br/app/amphetamine/id937984704?mt=12)	
+	```
+	Stay wake up
+	```
+
+* [BetterTouchTool](https://folivora.ai)
+	```
+	Do keyboard automations
+	```
+
 ---
 
 ## Browsers
@@ -87,17 +95,18 @@
 	```
 	If Chrome down...
 	```
+
+* [MS Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+	```
+	It is deserving a chance, although it remembers Windows
+	```	
+
 ---
 
 ## Productivity
-* [Todoist](https://apps.apple.com/br/app/todoist-to-do-list-tasks/id585829637?l=en&mt=12)
+* [TickTick](https://ticktick.com/about/mac)
 	```
-	Make lists inside lists... An never end loop
-	```
-	
-* [Trello](https://apps.apple.com/br/app/trello/id1278508951?l=en&mt=12)
-	```
-	A good and free way to manage your projects using KanBan
+	Make lists inside lists... An never end loop and attach files
 	```
 	
 * [Notion](https://www.notion.so/desktop)
@@ -149,7 +158,6 @@
 	Does what mIRC did :P	
 	```
 
-
 ---
 
 ## Multimedia
@@ -160,11 +168,20 @@
 	Spotify > Apple Music sorry
 	```
 
-
 * [VLC](https://www.videolan.org/vlc/download-macosx.pt-BR.html)
 	```
 	In case need to fix the torrent legend.. ops!
 	```
+
+* [ElMedia](https://apps.apple.com/br/app/elmedia-video-player/id1044549675?mt=12)
+   ```
+   If VLC freeze
+   ```
+
+* [Infuse](https://apps.apple.com/us/app/infuse-video-player/id1136220934)
+   ```
+   If ElMedia freeze
+   ```
 
 ---
 
@@ -181,11 +198,6 @@
 	A good tool... but so slowly
 	```
 	
-* [Atom](https://atom.io/)
-	```
-	I dont know why...
-	```
-	
 * [Typora](https://typora.io/)
 	```
 	If you need concetrate to edit you markdown...
@@ -200,7 +212,10 @@
 	If you want check temp, network traffic, cpu usage, Rpm fan etc...
 	```	
 
-
+* [TG Pro](https://www.tunabellysoftware.com/tgpro/)
+	```
+	Cool a little there
+	```
 
 ---
 
@@ -234,6 +249,11 @@
 * [Docker](https://www.docker.com/products/docker-desktop)
 	```
 	Container solution
+	```
+
+* [Insomnia](https://insomnia.rest/download)
+	```
+	Less chaotic than Postman
 	```
 
 * [Postman](https://www.postman.com/downloads/)
